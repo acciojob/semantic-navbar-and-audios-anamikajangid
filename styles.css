@@ -1,20 +1,2 @@
-*{
-	margin-top:0;
-}
-.navbar-container {
-  background-color: #fcaf02;	
-}
-.navbar-container .nav-content ul{
-  display: flex;
-  width: 100%;
-  justify-content: space-around;
-  align-items: center;
-}
- a{
-  text-decoration:none;
-}
-.nav-content li{
-	list-style-type:none;
-}
 
 /* Your CSS Code here. */
